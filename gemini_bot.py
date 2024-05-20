@@ -3,8 +3,8 @@ import os
 import google.generativeai as genai
 
 st.title("RedPill AI")
-# Api Key= AIzaSyD_G4WOIG30l1SzVqFvJE63VNBE6ZlA8sk
-os.environ['GOOGLE_API_KEY'] = "AIzaSyD_G4WOIG30l1SzVqFvJE63VNBE6ZlA8sk"
+
+os.environ['GOOGLE_API_KEY'] ="Your_API_KEY"
 genai.configure(api_key = os.environ['GOOGLE_API_KEY'])
 
 # Select the model
