@@ -1,14 +1,14 @@
 ## Features
-*Interactive Chat Interface: The chatbot uses Streamlit to provide a web-based interface for user interaction.
-*Google Gemini API Integration: Utilizes Google's Generative Model (gemini-pro) to generate intelligent and relevant responses.
-*Session State Management: Maintains chat history across user interactions using Streamlit's session state.
+1. Interactive Chat Interface: The chatbot uses Streamlit to provide a web-based interface for user interaction.
+2. Google Gemini API Integration: Utilizes Google's Generative Model (gemini-pro) to generate intelligent and relevant responses.
+3. Session State Management: Maintains chat history across user interactions using Streamlit's session state.
 
 ## Getting Started
 
 ### Prerequisites
--Python 3.x
--Virtual environment tool (e.g., venv)
--Google Generative AI API Key
+1. Python 3.x
+2. Virtual environment tool (e.g., venv)
+3. Google Generative AI API Key
 
 ### Installation
 1. Clone the repository:
