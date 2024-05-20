@@ -1,4 +1,4 @@
-### RedPill AI with Streamlit
+## RedPill AI with Streamlit
 This repository contains a simple chatbot application built using Streamlit and Google's Gemini API. The bot, named "RedPill AI," can interact with users and generate responses based on their queries.
 ## Features
 1. Interactive Chat Interface: The chatbot uses Streamlit to provide a web-based interface for user interaction.
