@@ -1,7 +1,7 @@
 ## Features
--Interactive Chat Interface: The chatbot uses Streamlit to provide a web-based interface for user interaction.
--Google Gemini API Integration: Utilizes Google's Generative Model (gemini-pro) to generate intelligent and relevant responses.
--Session State Management: Maintains chat history across user interactions using Streamlit's session state.
+*Interactive Chat Interface: The chatbot uses Streamlit to provide a web-based interface for user interaction.
+*Google Gemini API Integration: Utilizes Google's Generative Model (gemini-pro) to generate intelligent and relevant responses.
+*Session State Management: Maintains chat history across user interactions using Streamlit's session state.
 
 ## Getting Started
 
