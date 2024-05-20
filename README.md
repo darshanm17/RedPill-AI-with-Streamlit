@@ -1,3 +1,5 @@
+### RedPill AI with Streamlit
+This repository contains a simple chatbot application built using Streamlit and Google's Gemini API. The bot, named "RedPill AI," can interact with users and generate responses based on their queries.
 ## Features
 1. Interactive Chat Interface: The chatbot uses Streamlit to provide a web-based interface for user interaction.
 2. Google Gemini API Integration: Utilizes Google's Generative Model (gemini-pro) to generate intelligent and relevant responses.
@@ -35,4 +37,20 @@
    ```sh
    streamlit run app.py
 3. Open your browser and navigate to http://localhost:8501 to interact with RedPill AI.
+
+## Code Description
+1. Title and Environment Setup: The app starts by setting the title and configuring the Google API key.
+2. Model Initialization: Configures the gemini-pro model from Google's Generative AI API.
+3. Chat History Management: Initializes and manages chat history using Streamlit's session state.
+4. Message Display: Displays chat messages from the session history on app rerun.
+5. Response Handling: Defines a function to handle user queries and generate responses using the Gemini API.
+6. User Input Handling: Accepts user input and triggers the response function when a query is provided.
+
+## Future Enhancements
+1. Add error handling for network and API issues.
+2. Implement user authentication for personalized sessions.
+3. Enhance the UI with custom styling and additional features.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
   
